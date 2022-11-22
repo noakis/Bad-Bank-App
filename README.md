@@ -13,6 +13,8 @@ Install my-project with npm, clone this repository and run
   npm start
 ```
 **SCREENSHOTS:**
+
+
 <img width="320" alt="Bad Bank ReadMe Screenshot 1" src="https://user-images.githubusercontent.com/102835052/203337317-c2032a4d-eae5-45a6-af0a-4e4edeaab7c1.png">
 <img width="320" alt="Bad Bank ReadMe Screenshot 2" src="https://user-images.githubusercontent.com/102835052/203337334-0a33b51f-5513-46ff-9e10-fbea35d7a7d8.png">
 
