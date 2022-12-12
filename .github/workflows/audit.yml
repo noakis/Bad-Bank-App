@@ -1,8 +1,5 @@
 name: Audit live site
-on:
-  push:
-    branches:
-      - master
+on:[push]
 
 jobs:
   audit:
